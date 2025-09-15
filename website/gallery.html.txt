@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Галерия</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Начало</a></li>
+                <li><a href="services.html">Услуги</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+                <li><a href="about.html">За нас</a></li>
+                <li><a href="blog.html">Блог</a></li>
+                <li><a href="gallery.html">Галерия</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Галерия</h1>
+            <div class="gallery">
+                <figure>
+                    <img src="assets/images/image1.jpg" alt="Изображение 1">
+                    <figcaption>Описание на изображение 1</figcaption>
+                </figure>
+                <figure>
+                    <img src="assets/images/image2.jpg" alt="Изображение 2">
+                    <figcaption>Описание на изображение 2</figcaption>
+                </figure>
+                <figure>
+                    <img src="assets/images/image3.jpg" alt="Изображение 3">
+                    <figcaption>Описание на изображение 3</figcaption>
+                </figure>
+                <!-- Можеш да добавиш още изображения тук -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Вашият сайт. Всички права запазени.</p>
+    </footer>
+</body>
+</html>

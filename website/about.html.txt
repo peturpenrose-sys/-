@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>За нас</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Начало</a></li>
+                <li><a href="services.html">Услуги</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+                <li><a href="about.html">За нас</a></li>
+                <li><a href="gallery.html">Галерия</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>За нас</h1>
+            <p>Ние сме екип от професионалисти, които предлагат иновативни решения в областта на уеб дизайна и разработката.</p>
+            <p>Нашата мисия е да създаваме изключителни уебсайтове, които са адаптивни, функционални и визуално привлекателни.</p>
+            <h2>Нашите ценности</h2>
+            <ul>
+                <li>Професионализъм</li>
+                <li>Креативност</li>
+                <li>Иновации</li>
+                <li>Качество</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Вашият сайт. Всички права запазени.</p>
+    </footer>
+</body>
+</html>

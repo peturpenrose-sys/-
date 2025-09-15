@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Начална Страница</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Начало</a></li>
+                <li><a href="services.html">Услуги</a></li>
+                <li><a href="contact.html">Контакти</a></li>
+                <li><a href="about.html">За нас</a></li>
+                <li><a href="blog.html">Блог</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Добре дошли на нашия сайт!</h1>
+            <p>Това е началната страница на нашия уебсайт.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Вашият сайт. Всички права запазени.</p>
+    </footer>
+</body>
+</html>
